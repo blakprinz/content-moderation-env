@@ -1,0 +1,7 @@
+name: content-moderation
+description: Social media content moderation environment
+version: 1.0.0
+tasks:
+  - id: task_1_easy
+  - id: task_2_medium
+  - id: task_3_hard

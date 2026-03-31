@@ -1,0 +1,6 @@
+fastapi
+uvicorn
+pydantic
+openai
+python-dotenv
+git+https://github.com/meta-pytorch/OpenEnv.git
